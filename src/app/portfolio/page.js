@@ -1,0 +1,29 @@
+import React from "react";
+import styles from "./page.module.css";
+import Link from "next/link";
+
+export const metadata = {
+  title: "Angus Carey Portfolio",
+  description: "this is a collection of my works",
+};
+
+const Portfolio = () => {
+  return (
+    <div className={styles.container}>
+      <h1 className={styles.selectTitle}>Choose a gallery</h1>
+      <div className={styles.items}>
+        <Link href="/portfolio/designs" className={styles.item}>
+          <span className={styles.title}>Designs</span>
+        </Link>
+        <Link href="/portfolio/websites" className={styles.item}>
+          <span className={styles.title}>Websites</span>
+        </Link>
+        <Link href="/portfolio/certificates" className={styles.item}>
+          <span className={styles.title}>Certificates</span>
+        </Link>
+      </div>
+    </div>
+  );
+};
+
+export default Portfolio;
