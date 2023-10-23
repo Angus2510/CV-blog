@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./page.module.css";
-import Link from "next/link";
+
 import Image from "next/image";
 import { items } from "./data"; // Import the data object
 
@@ -10,7 +10,7 @@ const Blog = () => {
   return (
     <div className={styles.mainContainer}>
       {blogs.map((item) => (
-        <Link
+        <div
           href={`/blog/${item.id}`}
           className={styles.container}
           key={item.id}
@@ -28,7 +28,7 @@ const Blog = () => {
             <h1 className={styles.title}>{item.title}</h1>
             <p className={styles.desc}>{item.desc}</p>
           </div>
-        </Link>
+        </div>
       ))}
     </div>
   );
