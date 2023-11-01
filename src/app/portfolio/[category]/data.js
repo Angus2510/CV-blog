@@ -14,6 +14,12 @@ export const items = {
       desc: "I have successfully completed an immersive CSS course, equipping me with an extensive skill set. I now wield the artistry of modern CSS techniques, the wizardry of advanced layout technologies such as Flexbox and CSS Grid, the sorcery of responsive design, a profound mastery of CSS fundamentals, and the craft of architecting maintainable CSS codebases with Sass. This creative arsenal empowers me to transform web design concepts into stunning, adaptable realities.",
       image: "/udemy-css.jpg",
     },
+    {
+      id: 3,
+      title: "Career Readiness Programme",
+      desc: "I am pleased to announce that I have successfully completed the Career Readiness Program offered by HyperionDev. This comprehensive program has equipped me with the essential skills and knowledge needed to thrive in the professional world. I am now well-prepared to embark on a rewarding career journey, armed with the expertise gained through HyperionDev's top-notch educational resources and support.",
+      image: "/Career-readiness.jpg",
+    },
   ],
   designs: [
     {
@@ -66,6 +72,13 @@ export const items = {
       desc: "Im excited to present a housing retail website I crafted with the power of CSS. This project was all about creating a practical, user-friendly platform where visitors can effortlessly browse and explore a wide range of housing options. CSS allowed me to maintain a clean and inviting design while ensuring that the site remains easy to navigate. Whether you're in search of your dream home or just curious about the available options, this website makes the process smooth and informative. It exemplifies how CSS can enhance the digital presence of housing retail, offering an engaging and hassle-free experience for users",
       image: "/CSS-project3.png",
       url: "https://css-property-project.netlify.app/",
+    },
+    {
+      id: 7,
+      title: "Food Blog with Next.js",
+      desc: "Welcome to my delectable journey through the world of flavors and cuisines on my food blog, crafted with the cutting-edge technology of Next.js. Join me as I explore the tantalizing dishes I've encountered during my travels in Vietnam and Indonesia. From vibrant street food to age-old recipes, I'm sharing my passion for food through this digital kitchen. Discover the essence of each dish, explore the recipes, and embark on a culinary adventure with me as I showcase the artistry of Next.js in bringing my portfolio to life",
+      image: "/foodie.png",
+      url: "https://foodie-green-iota.vercel.app/",
     },
   ],
 };
