@@ -25,7 +25,7 @@ export const items = {
       title: "Next.js & React",
       desc: "This certificate above verifies that Angus Carey successfully completed the course Next.js & React - The Complete Guide (incl. Two Paths!) on 11/02/2023 as taught by Maximilian Schwarzmüller on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.",
 
-      image: "/next-react-certificate",
+      image: "/next-react-certificate.jpg",
     },
   ],
   designs: [
