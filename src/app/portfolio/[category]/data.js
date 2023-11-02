@@ -20,6 +20,13 @@ export const items = {
       desc: "I am pleased to announce that I have successfully completed the Career Readiness Program offered by HyperionDev. This comprehensive program has equipped me with the essential skills and knowledge needed to thrive in the professional world. I am now well-prepared to embark on a rewarding career journey, armed with the expertise gained through HyperionDev's top-notch educational resources and support.",
       image: "/Career-readiness.jpg",
     },
+    {
+      id: 4,
+      title: "Next.js & React",
+      desc: "This certificate above verifies that Angus Carey successfully completed the course Next.js & React - The Complete Guide (incl. Two Paths!) on 11/02/2023 as taught by Maximilian Schwarzmüller on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.",
+
+      image: "/next-react-certificate",
+    },
   ],
   designs: [
     {
