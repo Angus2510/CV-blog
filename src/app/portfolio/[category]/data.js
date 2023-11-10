@@ -30,7 +30,7 @@ export const items = {
       id: 5,
       title: " Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more",
       desc: "This certificate above verifies that Angus Carey successfully completed the course Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more on 11/10/2023 as taught by Andrei Neagoie, Daniel Schifano on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.",
-      image: "/Design-udemy.jpg",
+      image: "/Design-udemy.png",
     },
   ],
   designs: [
