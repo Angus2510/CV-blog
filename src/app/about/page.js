@@ -69,8 +69,6 @@ const About = () => {
             the adventures of my Okavango Delta backyard. Let's ride the
             adventure of a lifetime! 🌊📚🚀
           </p>
-
-          <Button url="/contact" text="Contact" />
         </div>
       </div>
     </div>
