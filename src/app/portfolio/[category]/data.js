@@ -32,6 +32,12 @@ export const items = {
       desc: "This certificate above verifies that Angus Carey successfully completed the course Complete Web & Mobile Designer in 2023: UI/UX, Figma, +more on 11/10/2023 as taught by Andrei Neagoie, Daniel Schifano on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.",
       image: "/Design-udemy.png",
     },
+    {
+      id: 6,
+      title: " Complete Javascript course 2024: From Zero to Expert",
+      desc: "This certificate above verifies that Angus Carey successfully completed the course The Complete JavaScript Course 2024: From Zero to Expert! on 01/16/2024 as taught by Jonas Schmedtmann on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.",
+      image: "/javascript-certificate.png",
+    },
   ],
   designs: [
     {
